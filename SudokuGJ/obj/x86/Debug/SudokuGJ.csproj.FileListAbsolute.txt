@@ -1,0 +1,11 @@
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\obj\x86\Debug\SudokuGJ.Board.resources
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\obj\x86\Debug\SudokuGJ.Form1.resources
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\obj\x86\Debug\SudokuGJ.Properties.Resources.resources
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\obj\x86\Debug\SudokuGJ.csproj.GenerateResource.Cache
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\bin\Debug\SudokuGJ.exe
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\bin\Debug\SudokuGJ.pdb
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\obj\x86\Debug\SudokuGJ.exe
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\obj\x86\Debug\SudokuGJ.pdb
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\obj\x86\Debug\SudokuGJ.csprojResolveAssemblyReference.cache
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\bin\Debug\Resources\baza.sdf
+c:\users\gorgi_000\documents\visual studio 2010\Projects\SudokuGJ\SudokuGJ\bin\Debug\SudokuGJ.exe.config
